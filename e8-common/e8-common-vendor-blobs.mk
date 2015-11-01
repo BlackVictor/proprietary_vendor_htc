@@ -138,7 +138,7 @@ PRODUCT_COPY_FILES += \
         vendor/htc/e8-common/proprietary/lib/libtuning_aec_ov13850_800M_video_60fps.so:/system/lib/libtuning_aec_ov13850_800M_video_60fps.so \
         vendor/htc/e8-common/proprietary/lib/libtuning_aec_ov13850_800M_videoHFR.so:/system/lib/libtuning_aec_ov13850_800M_videoHFR.so \
         vendor/htc/e8-common/proprietary/lib/libtuning_aec_ov13850_800M_zsl.so:/system/lib/libtuning_aec_ov13850_800M_zsl.so \
-        vendor/htc/e8-common/proprietary/lib/libtuning_aec_ov13850_800M_zsl_16_9.so:/system/lib/libtuning_aec_ov13850_800M_zsl_16_9.so \		
+        vendor/htc/e8-common/proprietary/lib/libtuning_aec_ov13850_800M_zsl_16_9.so:/system/lib/libtuning_aec_ov13850_800M_zsl_16_9.so \
         vendor/htc/e8-common/proprietary/lib/libtuning_aec_s5k5e_fov65_hdr.so:/system/lib/libtuning_aec_s5k5e_fov65_hdr.so \
         vendor/htc/e8-common/proprietary/lib/libtuning_aec_s5k5e_fov65_video.so:/system/lib/libtuning_aec_s5k5e_fov65_video.so \
         vendor/htc/e8-common/proprietary/lib/libtuning_aec_s5k5e_fov65_zsl.so:/system/lib/libtuning_aec_s5k5e_fov65_zsl.so \
